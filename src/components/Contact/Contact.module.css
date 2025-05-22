@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: left;
+}
+.text {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0;
+}

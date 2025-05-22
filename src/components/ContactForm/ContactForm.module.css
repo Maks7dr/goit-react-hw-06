@@ -1,0 +1,18 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding: 15px;
+}
+.label {
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+}
+.field {
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
