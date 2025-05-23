@@ -17,7 +17,7 @@ function App() {
       <h1>Phonebook</h1>
       <ContactForm />
       <SearchBox />
-      <ContactList conts={visibleTasks} />
+      <ContactList />
     </div>
   );
 }
